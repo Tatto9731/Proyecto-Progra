@@ -1,0 +1,89 @@
+<Proyecto Zelda>
+
+
+
+
+
+<Your Company Logo Here>
+
+
+
+
+Revision: 1.0.0
+
+GDD Template Written by: Benjamin “HeadClot” Stanley
+
+
+
+
+
+
+
+
+License 
+If you use this in any of your games. Give credit in the GDD (this document) to Alec Markarian and Benjamin Stanley. We did work so you don’t have to.   
+
+Feel free to Modify, redistribute but not sell this document.
+
+
+TL;DR - Keep the credits section of this document intact and we are good and do not sell it.
+
+
+Overview
+
+Aventura
+
+Core Gameplay Mechanics Brief
+	- Pelar contra bosses
+  - Resolver puzzles
+
+Plataformas: PC (Windows)
+
+Influences (Brief)
+	- The legend of Zelda (Saga completa)
+		- Videojuego
+- Tomamos este grandioso videojuego como referencia ya que es una de las mejores sagas en la industria 
+ya que si atractivo es resolver acertijos.
+http://www.youtube.com/watch?v=q2Tb564RBzk
+	- Pokemon
+		- Videojuego
+		- Este videojiego es sumamente importante ya que nos basamos en los mapas por ser sencillos pero igualmente increibles
+https://www.youtube.com/watch?v=5Cp1tf35vEA
+
+Project Description (Brief):
+
+Proyecto realizado por Anthony Salazar y Leonardo Araya, este video juego consta de diseño grafico de mapas, animaciones,
+teletransportes, un ataque basico, un enemigo y 2 puzzles los cuales son ambos laberintos con ciertas diferencias ya que para pasar el primero
+se ocupa descifrar el camino mediante el movimiento de rocas empujandolas y elsegundo es un laberinto convencional.
+
+Story and Gameplay
+
+Story (Brief)
+
+Nuestro perssonaje principal se encuentra en una cueva desorientado y se despierta por un terremoto el cual deja caer piedras en la salida de la cueva,}
+luego de haber avanzado entre las rocas, sale de la cueva y se encuentra con un laberinto de plantas el cual supera para asi encontrar a un monstruo tronco
+vigilano la casa de nuestro protagonista.
+
+Gameplay (Brief)
+
+El gameplay se basa en descifrar los puzzles y vencer al enemigo, hay que empujar rocas para abirse pasoesquivar los ataques a distancia del enemigo y matarlo
+
+
+Assets Needed
+
+- 2D
+	- Textures:texturas del personaje, enemigo, rocas, estatuas
+  
+		- Environment Textures: lagos, puentes, montañas, cuevas, arbustos, calaveras y huesos, vallas, y decoracion varia
+
+
+
+
+
+
+
+
+
+
+
+
